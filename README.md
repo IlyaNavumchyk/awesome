@@ -3,7 +3,7 @@
 
 ## Java Code Conventions
 Конвенция по Java разработке, утверждённая Sun Microsystems в 1997 г.
-Соглашение об унифицированности и единообразию ведения разработки и насписания кода.
+Соглашение об унифицированности и единообразию ведения разработки и написания кода.
 Несмотря на год, положения данной конвенции используются до сих пор без изменений.
 
 [Java Code Conventions Url][Java Url]<br>
@@ -25,8 +25,16 @@
 
 [Шпаргалка по Markdown URL](https://github.com/sandino/Markdown-Cheatsheet "GitHub")<br>
 [Шпаргалка по Markdown MD][Markdown] <br>
-[Online-платформа для изуяения markdown](https://markdown-here.com/livedemo.html "Markdown")
+[Online-платформа для изучения markdown](https://markdown-here.com/livedemo.html "Markdown")
+
+## Git
+Небольшая шпаргалка от Яндекс для начала работы с Git. 
+Рекомендую пройти очень крутой курс. Для новичка - самое то.
+
+[Курс по Git на Яндекс.практикум URL](https://practicum.yandex.ru/git-basics/ "Яндекс.практикум")<br>
+[Шпаргалка по Git PDF][Git]
 
 [Java Url]: https://www.oracle.com/technetwork/java/codeconventions-150003.pdf "Oracle.com"
-[Java Pdf]: codeconventions-150003.pdf
-[Markdown]: Markdown.md
+[Java Pdf]: resources/codeconventions-150003.pdf
+[Markdown]: resources/Markdown.md
+[Git]: resources/Шпаргалка.pdf
